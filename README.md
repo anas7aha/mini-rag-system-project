@@ -32,3 +32,22 @@ This project was built as part of a hands-on AI engineering exercise to understa
 
 ## 🧪 Example Output
 
+
+---
+
+## 🧰 Tech Stack
+
+- **Python 3**
+- **Hugging Face Transformers**
+- **Sentence Transformers (MiniLM)**
+- **PyTorch**
+- **Google Colab**
+
+---
+
+## 📘 How to Run
+
+1. Open the notebook in Google Colab.
+2. Install dependencies:
+   ```bash
+   pip install sentence-transformers transformers torch
